@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif?cid=790b7611speph5u9yaci6ijrogtwco5zyxkdqm9d4v98bpec&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhyamishra1808&label=Profile%20views&color=0e75b6&style=flat" alt="sanidhyamishra1808" /> </p>
 
-- 🔭 I’m currently working on **StickToLane**
+- 🔭 I’m currently working on **E.D.I.T.H**
 
 - 🌱 I’m currently learning **Figma, AWS**
 
